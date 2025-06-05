@@ -10,13 +10,13 @@ multiple dynamic and interactive visualizations.
 - Line chart illustrating vaccination trends over time
 - Bar chart ranking countries based on doses administered or fully vaccinated population.
 - Chloropleth map visualizing global vaccine distribution
-- Responsive tooltip and interactive elements for better user experience.
+- Responsive tooltips and interactive elements for a smoother user experience.
 
 ## Purpose: 
 This dashboard helps users: 
-- Understand global and regional vaccination progress.
-- Compare vaccination rates between countries.
-- Track vaccination trends over time with dynamic visualizations.
+- Understand global and regional COVID vaccination progress.
+- Compare COVID vaccination rates between countries.
+- Track COVID vaccination trends over time with dynamic visualizations.
 
 ## Data
 This project uses COVID-19 vaccination data collected and maintained by *Our World in Data*.
@@ -30,6 +30,7 @@ The dataset includes:
 
 ## Acknowledgments
 Data is sourced and maintained by *Our World in Data* via their GitHUb Repository. 
+Built using Python, Dash, and Plotly.
 
 ## Installation 
 git clone https://github.com/antoniasunseri/covid19-vaccination-app.git
